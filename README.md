@@ -1,3 +1,5 @@
+# This project has moved to https://github.com/turnisland/X-888
+
 # New-888
 A simplified SDR, based on the RX-888:
 * Proof-of-concept design
